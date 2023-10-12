@@ -57,8 +57,9 @@ const { taskID } = req.query; //query parameter
 const { title, description, due_date } = req.body;
 ```
 
+Example request body:
+
 ```json
-//Example request
 {
     "title": "{{$randomCatchPhrase}}",
     "description": "{{$randomPhrase}}",
@@ -73,8 +74,9 @@ const { id } = req.query; //query parameter
 const { title, description, due_date, completed } = req.body;
 ```
 
+Example request body:
+
 ```json
-//Example request
 {
     "title": "Multi-channelled mobile superstructure",
     "description": "{{$randomPhrase}}",
