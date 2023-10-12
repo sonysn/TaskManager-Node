@@ -2,6 +2,8 @@
 
 Task Manager Project Written in NodeJS by Stephen.  
 
+Look at the Go Version [here](https://github.com/sonysn/TaskManager-Go).
+
 ## Installation
 
 - Clone the repository and Move to the root directory
